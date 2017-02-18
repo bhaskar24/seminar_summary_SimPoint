@@ -1,4 +1,4 @@
-## Using Machine Learning to Guide Architecture Simulation - Presentation Summary
+# Using Machine Learning to Guide Architecture Simulation - Presentation Summary
 ## Course Code: CS701	<br/>
 ## Slot Code: Week 15<br/>
 
