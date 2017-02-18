@@ -7,6 +7,6 @@ An essential step in designing a new computer architecture is the careful examin
 
 ### References         <br/>
 
-[1] Tae-hoon Kim, Kee-hyun Lee, "Using Machine Learning to Guide Architecture Simulation", SICE-ICAThe Journal of Machine Learning Research06, (http://dl.acm.org/citation.cfm?id=1248547.1248559)
+[1] Hamerly, Perelman, Lau, Calder, Sherwood, "Using Machine Learning to Guide Architecture Simulation", The Journal of Machine Learning Research (Volume 7), (http://dl.acm.org/citation.cfm?id=1248547.1248559)
 
 [2] http://bt.nitk.ac.in/c/16b/cs701/cs701.html
